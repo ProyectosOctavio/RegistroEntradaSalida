@@ -1,0 +1,28 @@
+﻿<Properties StartupConfiguration="{87BCA0C0-CFC6-4547-B1CE-BDAAB3372B09}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="AdminCargo.cs">
+    <Files>
+      <File FileName="AdminCargo.cs" Line="141" Column="18" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="COntrolREyS" expanded="True">
+            <Node name="COntrolREyS" expanded="True">
+              <Node name="UserInterface" expanded="True" />
+              <Node name="Datos" expanded="True" />
+              <Node name="Entidades" expanded="True" />
+              <Node name="AdminCargo.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.COntrolREyS PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

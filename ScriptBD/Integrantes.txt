@@ -1,0 +1,8 @@
+Team QUICKIE
+
+Integrantes:
+
+Norman Romero(crud de departamento)
+Jorge Chavez(crud de cargo)
+Yizark Farrach(crud empleado)
+Octavio Guevara(Registro de entrada y salida)

@@ -1,0 +1,359 @@
+/home/ubuntupa/Projects/COntrolREyS/COntrolREyS/bin/Debug/COntrolREyS.exe
+/home/ubuntupa/Projects/COntrolREyS/COntrolREyS/bin/Debug/COntrolREyS.pdb
+/home/ubuntupa/Projects/COntrolREyS/COntrolREyS/obj/x86/Debug/COntrolREyS.csprojAssemblyReference.cache
+/home/ubuntupa/Projects/COntrolREyS/COntrolREyS/obj/x86/Debug/COntrolREyS.csproj.CoreCompileInputs.cache
+/home/ubuntupa/Projects/COntrolREyS/COntrolREyS/obj/x86/Debug/COntrolREyS.exe
+/home/ubuntupa/Projects/COntrolREyS/COntrolREyS/obj/x86/Debug/COntrolREyS.pdb
+/home/octavio/Escritorio/COntrolREyS/COntrolREyS/bin/Debug/COntrolREyS.exe
+/home/octavio/Escritorio/COntrolREyS/COntrolREyS/bin/Debug/COntrolREyS.pdb
+/home/octavio/Escritorio/COntrolREyS/COntrolREyS/obj/x86/Debug/COntrolREyS.csprojAssemblyReference.cache
+/home/octavio/Escritorio/COntrolREyS/COntrolREyS/obj/x86/Debug/COntrolREyS.csproj.CoreCompileInputs.cache
+/home/octavio/Escritorio/COntrolREyS/COntrolREyS/obj/x86/Debug/COntrolREyS.exe
+/home/octavio/Escritorio/COntrolREyS/COntrolREyS/obj/x86/Debug/COntrolREyS.pdb
+/home/ubuntupa/Descargas/COntrolREyS (1)/COntrolREyS/obj/x86/Debug/COntrolREyS.csprojAssemblyReference.cache
+/home/ubuntupa/Descargas/COntrolREyS (1)/COntrolREyS/obj/x86/Debug/COntrolREyS.csproj.CoreCompileInputs.cache
+/home/ubuntupa/Descargas/COntrolREyS (1)/COntrolREyS/obj/x86/Debug/COntrolREyS.exe
+/home/ubuntupa/Descargas/COntrolREyS (1)/COntrolREyS/obj/x86/Debug/COntrolREyS.pdb
+/home/ubuntupa/Descargas/COntrolREyS (1)/COntrolREyS/bin/Debug/COntrolREyS.exe
+/home/ubuntupa/Descargas/COntrolREyS (1)/COntrolREyS/bin/Debug/COntrolREyS.pdb
+/home/octavio/Escritorio/COntrolREyS COrregido/COntrolREyS/bin/Debug/COntrolREyS.exe
+/home/octavio/Escritorio/COntrolREyS COrregido/COntrolREyS/bin/Debug/COntrolREyS.pdb
+/home/octavio/Escritorio/COntrolREyS COrregido/COntrolREyS/obj/x86/Debug/COntrolREyS.csprojAssemblyReference.cache
+/home/octavio/Escritorio/COntrolREyS COrregido/COntrolREyS/obj/x86/Debug/COntrolREyS.csproj.CoreCompileInputs.cache
+/home/octavio/Escritorio/COntrolREyS COrregido/COntrolREyS/obj/x86/Debug/COntrolREyS.exe
+/home/octavio/Escritorio/COntrolREyS COrregido/COntrolREyS/obj/x86/Debug/COntrolREyS.pdb
+/home/octavio/Escritorio/COntrolREyS COrregido/COntrolREyS/bin/Debug/MySql.Data.dll
+/home/octavio/Escritorio/COntrolREyS COrregido/COntrolREyS/bin/Debug/MySql.Data.EntityFramework.dll
+/home/octavio/Escritorio/COntrolREyS COrregido/COntrolREyS/bin/Debug/Google.Protobuf.dll
+/home/octavio/Escritorio/COntrolREyS COrregido/COntrolREyS/bin/Debug/ZstdNet.dll
+/home/octavio/Escritorio/COntrolREyS COrregido/COntrolREyS/bin/Debug/K4os.Compression.LZ4.Streams.dll
+/home/octavio/Escritorio/COntrolREyS COrregido/COntrolREyS/bin/Debug/BouncyCastle.Crypto.dll
+/home/octavio/Escritorio/COntrolREyS COrregido/COntrolREyS/bin/Debug/Ubiety.Dns.Core.dll
+/home/octavio/Escritorio/COntrolREyS COrregido/COntrolREyS/bin/Debug/System.Buffers.dll
+/home/octavio/Escritorio/COntrolREyS COrregido/COntrolREyS/bin/Debug/K4os.Compression.LZ4.dll
+/home/octavio/Escritorio/COntrolREyS COrregido/COntrolREyS/bin/Debug/K4os.Hash.xxHash.dll
+/home/octavio/Escritorio/COntrolREyS COrregido/COntrolREyS/bin/Debug/MySql.Data.xml
+/home/octavio/Escritorio/COntrolREyS COrregido/COntrolREyS/bin/Debug/MySql.Data.EntityFramework.xml
+/home/octavio/Escritorio/COntrolREyS COrregido/COntrolREyS/obj/x86/Debug/COntrolREyS.csproj.CopyComplete
+/home/ubuntupa/Descargas/COntrolREyS COrregido/COntrolREyS/bin/Debug/COntrolREyS.exe
+/home/ubuntupa/Descargas/COntrolREyS COrregido/COntrolREyS/bin/Debug/COntrolREyS.pdb
+/home/ubuntupa/Descargas/COntrolREyS COrregido/COntrolREyS/bin/Debug/MySql.Data.dll
+/home/ubuntupa/Descargas/COntrolREyS COrregido/COntrolREyS/bin/Debug/MySql.Data.EntityFramework.dll
+/home/ubuntupa/Descargas/COntrolREyS COrregido/COntrolREyS/bin/Debug/Google.Protobuf.dll
+/home/ubuntupa/Descargas/COntrolREyS COrregido/COntrolREyS/bin/Debug/ZstdNet.dll
+/home/ubuntupa/Descargas/COntrolREyS COrregido/COntrolREyS/bin/Debug/K4os.Compression.LZ4.Streams.dll
+/home/ubuntupa/Descargas/COntrolREyS COrregido/COntrolREyS/bin/Debug/BouncyCastle.Crypto.dll
+/home/ubuntupa/Descargas/COntrolREyS COrregido/COntrolREyS/bin/Debug/Ubiety.Dns.Core.dll
+/home/ubuntupa/Descargas/COntrolREyS COrregido/COntrolREyS/bin/Debug/System.Buffers.dll
+/home/ubuntupa/Descargas/COntrolREyS COrregido/COntrolREyS/bin/Debug/K4os.Compression.LZ4.dll
+/home/ubuntupa/Descargas/COntrolREyS COrregido/COntrolREyS/bin/Debug/K4os.Hash.xxHash.dll
+/home/ubuntupa/Descargas/COntrolREyS COrregido/COntrolREyS/bin/Debug/MySql.Data.xml
+/home/ubuntupa/Descargas/COntrolREyS COrregido/COntrolREyS/bin/Debug/MySql.Data.EntityFramework.xml
+/home/ubuntupa/Descargas/COntrolREyS COrregido/COntrolREyS/obj/x86/Debug/COntrolREyS.csproj.CoreCompileInputs.cache
+/home/ubuntupa/Descargas/COntrolREyS COrregido/COntrolREyS/obj/x86/Debug/COntrolREyS.csproj.CopyComplete
+/home/ubuntupa/Descargas/COntrolREyS COrregido/COntrolREyS/obj/x86/Debug/COntrolREyS.exe
+/home/ubuntupa/Descargas/COntrolREyS COrregido/COntrolREyS/obj/x86/Debug/COntrolREyS.pdb
+/home/ubuntupa/Descargas/COntrolREyS/obj/x86/Debug/COntrolREyS.csprojAssemblyReference.cache
+/home/ubuntupa/Descargas/COntrolREyS/obj/x86/Debug/COntrolREyS.csproj.CoreCompileInputs.cache
+/home/ubuntupa/Descargas/COntrolREyS/bin/Debug/COntrolREyS.exe
+/home/ubuntupa/Descargas/COntrolREyS/bin/Debug/COntrolREyS.pdb
+/home/ubuntupa/Descargas/COntrolREyS/bin/Debug/MySql.Data.dll
+/home/ubuntupa/Descargas/COntrolREyS/bin/Debug/MySql.Data.EntityFramework.dll
+/home/ubuntupa/Descargas/COntrolREyS/bin/Debug/Google.Protobuf.dll
+/home/ubuntupa/Descargas/COntrolREyS/bin/Debug/ZstdNet.dll
+/home/ubuntupa/Descargas/COntrolREyS/bin/Debug/K4os.Compression.LZ4.Streams.dll
+/home/ubuntupa/Descargas/COntrolREyS/bin/Debug/BouncyCastle.Crypto.dll
+/home/ubuntupa/Descargas/COntrolREyS/bin/Debug/Ubiety.Dns.Core.dll
+/home/ubuntupa/Descargas/COntrolREyS/bin/Debug/System.Buffers.dll
+/home/ubuntupa/Descargas/COntrolREyS/bin/Debug/K4os.Compression.LZ4.dll
+/home/ubuntupa/Descargas/COntrolREyS/bin/Debug/K4os.Hash.xxHash.dll
+/home/ubuntupa/Descargas/COntrolREyS/bin/Debug/MySql.Data.xml
+/home/ubuntupa/Descargas/COntrolREyS/bin/Debug/MySql.Data.EntityFramework.xml
+/home/ubuntupa/Descargas/COntrolREyS/obj/x86/Debug/COntrolREyS.csproj.CopyComplete
+/home/ubuntupa/Descargas/COntrolREyS/obj/x86/Debug/COntrolREyS.exe
+/home/ubuntupa/Descargas/COntrolREyS/obj/x86/Debug/COntrolREyS.pdb
+/home/ubuntupa/Descargas/PAQuickie/COntrolREyS/bin/Debug/COntrolREyS.exe
+/home/ubuntupa/Descargas/PAQuickie/COntrolREyS/bin/Debug/COntrolREyS.pdb
+/home/ubuntupa/Descargas/PAQuickie/COntrolREyS/bin/Debug/MySql.Data.dll
+/home/ubuntupa/Descargas/PAQuickie/COntrolREyS/bin/Debug/MySql.Data.EntityFramework.dll
+/home/ubuntupa/Descargas/PAQuickie/COntrolREyS/bin/Debug/Google.Protobuf.dll
+/home/ubuntupa/Descargas/PAQuickie/COntrolREyS/bin/Debug/ZstdNet.dll
+/home/ubuntupa/Descargas/PAQuickie/COntrolREyS/bin/Debug/K4os.Compression.LZ4.Streams.dll
+/home/ubuntupa/Descargas/PAQuickie/COntrolREyS/bin/Debug/BouncyCastle.Crypto.dll
+/home/ubuntupa/Descargas/PAQuickie/COntrolREyS/bin/Debug/Ubiety.Dns.Core.dll
+/home/ubuntupa/Descargas/PAQuickie/COntrolREyS/bin/Debug/System.Buffers.dll
+/home/ubuntupa/Descargas/PAQuickie/COntrolREyS/bin/Debug/K4os.Compression.LZ4.dll
+/home/ubuntupa/Descargas/PAQuickie/COntrolREyS/bin/Debug/K4os.Hash.xxHash.dll
+/home/ubuntupa/Descargas/PAQuickie/COntrolREyS/bin/Debug/MySql.Data.xml
+/home/ubuntupa/Descargas/PAQuickie/COntrolREyS/bin/Debug/MySql.Data.EntityFramework.xml
+/home/ubuntupa/Descargas/PAQuickie/COntrolREyS/obj/x86/Debug/COntrolREyS.csprojAssemblyReference.cache
+/home/ubuntupa/Descargas/PAQuickie/COntrolREyS/obj/x86/Debug/COntrolREyS.csproj.CoreCompileInputs.cache
+/home/ubuntupa/Descargas/PAQuickie/COntrolREyS/obj/x86/Debug/COntrolREyS.csproj.CopyComplete
+/home/ubuntupa/Descargas/PAQuickie/COntrolREyS/obj/x86/Debug/COntrolREyS.exe
+/home/ubuntupa/Descargas/PAQuickie/COntrolREyS/obj/x86/Debug/COntrolREyS.pdb
+/home/octavio/Escritorio/PAQuickie/COntrolREyS/bin/Debug/COntrolREyS.exe
+/home/octavio/Escritorio/PAQuickie/COntrolREyS/bin/Debug/COntrolREyS.pdb
+/home/octavio/Escritorio/PAQuickie/COntrolREyS/bin/Debug/MySql.Data.dll
+/home/octavio/Escritorio/PAQuickie/COntrolREyS/bin/Debug/MySql.Data.EntityFramework.dll
+/home/octavio/Escritorio/PAQuickie/COntrolREyS/bin/Debug/Google.Protobuf.dll
+/home/octavio/Escritorio/PAQuickie/COntrolREyS/bin/Debug/ZstdNet.dll
+/home/octavio/Escritorio/PAQuickie/COntrolREyS/bin/Debug/K4os.Compression.LZ4.Streams.dll
+/home/octavio/Escritorio/PAQuickie/COntrolREyS/bin/Debug/BouncyCastle.Crypto.dll
+/home/octavio/Escritorio/PAQuickie/COntrolREyS/bin/Debug/Ubiety.Dns.Core.dll
+/home/octavio/Escritorio/PAQuickie/COntrolREyS/bin/Debug/System.Buffers.dll
+/home/octavio/Escritorio/PAQuickie/COntrolREyS/bin/Debug/K4os.Compression.LZ4.dll
+/home/octavio/Escritorio/PAQuickie/COntrolREyS/bin/Debug/K4os.Hash.xxHash.dll
+/home/octavio/Escritorio/PAQuickie/COntrolREyS/bin/Debug/MySql.Data.xml
+/home/octavio/Escritorio/PAQuickie/COntrolREyS/bin/Debug/MySql.Data.EntityFramework.xml
+/home/octavio/Escritorio/PAQuickie/COntrolREyS/obj/x86/Debug/COntrolREyS.csprojAssemblyReference.cache
+/home/octavio/Escritorio/PAQuickie/COntrolREyS/obj/x86/Debug/COntrolREyS.csproj.CoreCompileInputs.cache
+/home/octavio/Escritorio/PAQuickie/COntrolREyS/obj/x86/Debug/COntrolREyS.csproj.CopyComplete
+/home/octavio/Escritorio/PAQuickie/COntrolREyS/obj/x86/Debug/COntrolREyS.exe
+/home/octavio/Escritorio/PAQuickie/COntrolREyS/obj/x86/Debug/COntrolREyS.pdb
+/home/labd25/Escritorio/PAQuickie/COntrolREyS/bin/Debug/COntrolREyS.exe
+/home/labd25/Escritorio/PAQuickie/COntrolREyS/bin/Debug/COntrolREyS.pdb
+/home/labd25/Escritorio/PAQuickie/COntrolREyS/bin/Debug/MySql.Data.dll
+/home/labd25/Escritorio/PAQuickie/COntrolREyS/bin/Debug/MySql.Data.EntityFramework.dll
+/home/labd25/Escritorio/PAQuickie/COntrolREyS/bin/Debug/Google.Protobuf.dll
+/home/labd25/Escritorio/PAQuickie/COntrolREyS/bin/Debug/ZstdNet.dll
+/home/labd25/Escritorio/PAQuickie/COntrolREyS/bin/Debug/K4os.Compression.LZ4.Streams.dll
+/home/labd25/Escritorio/PAQuickie/COntrolREyS/bin/Debug/BouncyCastle.Crypto.dll
+/home/labd25/Escritorio/PAQuickie/COntrolREyS/bin/Debug/Ubiety.Dns.Core.dll
+/home/labd25/Escritorio/PAQuickie/COntrolREyS/bin/Debug/System.Buffers.dll
+/home/labd25/Escritorio/PAQuickie/COntrolREyS/bin/Debug/K4os.Compression.LZ4.dll
+/home/labd25/Escritorio/PAQuickie/COntrolREyS/bin/Debug/K4os.Hash.xxHash.dll
+/home/labd25/Escritorio/PAQuickie/COntrolREyS/bin/Debug/MySql.Data.xml
+/home/labd25/Escritorio/PAQuickie/COntrolREyS/bin/Debug/MySql.Data.EntityFramework.xml
+/home/labd25/Escritorio/PAQuickie/COntrolREyS/obj/x86/Debug/COntrolREyS.csprojAssemblyReference.cache
+/home/labd25/Escritorio/PAQuickie/COntrolREyS/obj/x86/Debug/COntrolREyS.csproj.CoreCompileInputs.cache
+/home/labd25/Escritorio/PAQuickie/COntrolREyS/obj/x86/Debug/COntrolREyS.csproj.CopyComplete
+/home/labd25/Escritorio/PAQuickie/COntrolREyS/obj/x86/Debug/COntrolREyS.exe
+/home/labd25/Escritorio/PAQuickie/COntrolREyS/obj/x86/Debug/COntrolREyS.pdb
+/home/ubuntupa/Descargas/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/COntrolREyS.exe
+/home/ubuntupa/Descargas/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/COntrolREyS.pdb
+/home/ubuntupa/Descargas/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/MySql.Data.dll
+/home/ubuntupa/Descargas/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/MySql.Data.EntityFramework.dll
+/home/ubuntupa/Descargas/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/Google.Protobuf.dll
+/home/ubuntupa/Descargas/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/ZstdNet.dll
+/home/ubuntupa/Descargas/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/K4os.Compression.LZ4.Streams.dll
+/home/ubuntupa/Descargas/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/BouncyCastle.Crypto.dll
+/home/ubuntupa/Descargas/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/Ubiety.Dns.Core.dll
+/home/ubuntupa/Descargas/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/System.Buffers.dll
+/home/ubuntupa/Descargas/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/K4os.Compression.LZ4.dll
+/home/ubuntupa/Descargas/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/K4os.Hash.xxHash.dll
+/home/ubuntupa/Descargas/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/MySql.Data.xml
+/home/ubuntupa/Descargas/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/MySql.Data.EntityFramework.xml
+/home/ubuntupa/Descargas/PAQuickie(1)/PAQuickie/COntrolREyS/obj/x86/Debug/COntrolREyS.csprojAssemblyReference.cache
+/home/ubuntupa/Descargas/PAQuickie(1)/PAQuickie/COntrolREyS/obj/x86/Debug/COntrolREyS.csproj.CoreCompileInputs.cache
+/home/ubuntupa/Descargas/PAQuickie(1)/PAQuickie/COntrolREyS/obj/x86/Debug/COntrolREyS.csproj.CopyComplete
+/home/ubuntupa/Descargas/PAQuickie(1)/PAQuickie/COntrolREyS/obj/x86/Debug/COntrolREyS.exe
+/home/ubuntupa/Descargas/PAQuickie(1)/PAQuickie/COntrolREyS/obj/x86/Debug/COntrolREyS.pdb
+/home/octavio/Escritorio/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/COntrolREyS.exe
+/home/octavio/Escritorio/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/COntrolREyS.pdb
+/home/octavio/Escritorio/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/MySql.Data.dll
+/home/octavio/Escritorio/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/MySql.Data.EntityFramework.dll
+/home/octavio/Escritorio/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/Google.Protobuf.dll
+/home/octavio/Escritorio/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/ZstdNet.dll
+/home/octavio/Escritorio/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/K4os.Compression.LZ4.Streams.dll
+/home/octavio/Escritorio/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/BouncyCastle.Crypto.dll
+/home/octavio/Escritorio/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/Ubiety.Dns.Core.dll
+/home/octavio/Escritorio/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/System.Buffers.dll
+/home/octavio/Escritorio/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/K4os.Compression.LZ4.dll
+/home/octavio/Escritorio/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/K4os.Hash.xxHash.dll
+/home/octavio/Escritorio/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/MySql.Data.xml
+/home/octavio/Escritorio/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/MySql.Data.EntityFramework.xml
+/home/octavio/Escritorio/PAQuickie(1)/PAQuickie/COntrolREyS/obj/x86/Debug/COntrolREyS.csprojAssemblyReference.cache
+/home/octavio/Escritorio/PAQuickie(1)/PAQuickie/COntrolREyS/obj/x86/Debug/COntrolREyS.csproj.CoreCompileInputs.cache
+/home/octavio/Escritorio/PAQuickie(1)/PAQuickie/COntrolREyS/obj/x86/Debug/COntrolREyS.csproj.CopyComplete
+/home/octavio/Escritorio/PAQuickie(1)/PAQuickie/COntrolREyS/obj/x86/Debug/COntrolREyS.exe
+/home/octavio/Escritorio/PAQuickie(1)/PAQuickie/COntrolREyS/obj/x86/Debug/COntrolREyS.pdb
+/home/ubuntupa/Descargas/PAQuickie(1)(1)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/COntrolREyS.exe
+/home/ubuntupa/Descargas/PAQuickie(1)(1)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/COntrolREyS.pdb
+/home/ubuntupa/Descargas/PAQuickie(1)(1)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/MySql.Data.dll
+/home/ubuntupa/Descargas/PAQuickie(1)(1)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/MySql.Data.EntityFramework.dll
+/home/ubuntupa/Descargas/PAQuickie(1)(1)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/Google.Protobuf.dll
+/home/ubuntupa/Descargas/PAQuickie(1)(1)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/ZstdNet.dll
+/home/ubuntupa/Descargas/PAQuickie(1)(1)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/K4os.Compression.LZ4.Streams.dll
+/home/ubuntupa/Descargas/PAQuickie(1)(1)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/BouncyCastle.Crypto.dll
+/home/ubuntupa/Descargas/PAQuickie(1)(1)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/Ubiety.Dns.Core.dll
+/home/ubuntupa/Descargas/PAQuickie(1)(1)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/System.Buffers.dll
+/home/ubuntupa/Descargas/PAQuickie(1)(1)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/K4os.Compression.LZ4.dll
+/home/ubuntupa/Descargas/PAQuickie(1)(1)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/K4os.Hash.xxHash.dll
+/home/ubuntupa/Descargas/PAQuickie(1)(1)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/MySql.Data.xml
+/home/ubuntupa/Descargas/PAQuickie(1)(1)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/MySql.Data.EntityFramework.xml
+/home/ubuntupa/Descargas/PAQuickie(1)(1)/PAQuickie(1)/PAQuickie/COntrolREyS/obj/x86/Debug/COntrolREyS.csprojAssemblyReference.cache
+/home/ubuntupa/Descargas/PAQuickie(1)(1)/PAQuickie(1)/PAQuickie/COntrolREyS/obj/x86/Debug/COntrolREyS.csproj.CoreCompileInputs.cache
+/home/ubuntupa/Descargas/PAQuickie(1)(1)/PAQuickie(1)/PAQuickie/COntrolREyS/obj/x86/Debug/COntrolREyS.csproj.CopyComplete
+/home/ubuntupa/Descargas/PAQuickie(1)(1)/PAQuickie(1)/PAQuickie/COntrolREyS/obj/x86/Debug/COntrolREyS.exe
+/home/ubuntupa/Descargas/PAQuickie(1)(1)/PAQuickie(1)/PAQuickie/COntrolREyS/obj/x86/Debug/COntrolREyS.pdb
+/home/octavio/Escritorio/PAQuickie(1)(1)/PAQuickie(1)/PAQuickie/COntrolREyS/obj/x86/Debug/COntrolREyS.csprojAssemblyReference.cache
+/home/octavio/Escritorio/PAQuickie(1)(1)/PAQuickie(1)/PAQuickie/COntrolREyS/obj/x86/Debug/COntrolREyS.csproj.CoreCompileInputs.cache
+/home/octavio/Escritorio/PAQuickie(1)(1)/PAQuickie(1)/PAQuickie/COntrolREyS/obj/x86/Debug/COntrolREyS.exe
+/home/octavio/Escritorio/PAQuickie(1)(1)/PAQuickie(1)/PAQuickie/COntrolREyS/obj/x86/Debug/COntrolREyS.pdb
+/home/octavio/Escritorio/PAQuickie(1)(1)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/COntrolREyS.exe
+/home/octavio/Escritorio/PAQuickie(1)(1)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/COntrolREyS.pdb
+/home/octavio/Escritorio/PAQuickie(1)(1)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/MySql.Data.dll
+/home/octavio/Escritorio/PAQuickie(1)(1)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/MySql.Data.EntityFramework.dll
+/home/octavio/Escritorio/PAQuickie(1)(1)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/Google.Protobuf.dll
+/home/octavio/Escritorio/PAQuickie(1)(1)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/ZstdNet.dll
+/home/octavio/Escritorio/PAQuickie(1)(1)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/K4os.Compression.LZ4.Streams.dll
+/home/octavio/Escritorio/PAQuickie(1)(1)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/BouncyCastle.Crypto.dll
+/home/octavio/Escritorio/PAQuickie(1)(1)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/Ubiety.Dns.Core.dll
+/home/octavio/Escritorio/PAQuickie(1)(1)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/System.Buffers.dll
+/home/octavio/Escritorio/PAQuickie(1)(1)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/K4os.Compression.LZ4.dll
+/home/octavio/Escritorio/PAQuickie(1)(1)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/K4os.Hash.xxHash.dll
+/home/octavio/Escritorio/PAQuickie(1)(1)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/MySql.Data.xml
+/home/octavio/Escritorio/PAQuickie(1)(1)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/MySql.Data.EntityFramework.xml
+/home/octavio/Escritorio/PAQuickie(1)(1)/PAQuickie(1)/PAQuickie/COntrolREyS/obj/x86/Debug/COntrolREyS.csproj.CopyComplete
+/home/octavio/Escritorio/PAQuickie(1)(1) (copia)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/COntrolREyS.exe
+/home/octavio/Escritorio/PAQuickie(1)(1) (copia)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/COntrolREyS.pdb
+/home/octavio/Escritorio/PAQuickie(1)(1) (copia)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/MySql.Data.dll
+/home/octavio/Escritorio/PAQuickie(1)(1) (copia)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/MySql.Data.EntityFramework.dll
+/home/octavio/Escritorio/PAQuickie(1)(1) (copia)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/Google.Protobuf.dll
+/home/octavio/Escritorio/PAQuickie(1)(1) (copia)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/ZstdNet.dll
+/home/octavio/Escritorio/PAQuickie(1)(1) (copia)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/K4os.Compression.LZ4.Streams.dll
+/home/octavio/Escritorio/PAQuickie(1)(1) (copia)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/BouncyCastle.Crypto.dll
+/home/octavio/Escritorio/PAQuickie(1)(1) (copia)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/Ubiety.Dns.Core.dll
+/home/octavio/Escritorio/PAQuickie(1)(1) (copia)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/System.Buffers.dll
+/home/octavio/Escritorio/PAQuickie(1)(1) (copia)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/K4os.Compression.LZ4.dll
+/home/octavio/Escritorio/PAQuickie(1)(1) (copia)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/K4os.Hash.xxHash.dll
+/home/octavio/Escritorio/PAQuickie(1)(1) (copia)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/MySql.Data.xml
+/home/octavio/Escritorio/PAQuickie(1)(1) (copia)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/MySql.Data.EntityFramework.xml
+/home/octavio/Escritorio/PAQuickie(1)(1) (copia)/PAQuickie(1)/PAQuickie/COntrolREyS/obj/x86/Debug/COntrolREyS.csprojAssemblyReference.cache
+/home/octavio/Escritorio/PAQuickie(1)(1) (copia)/PAQuickie(1)/PAQuickie/COntrolREyS/obj/x86/Debug/COntrolREyS.csproj.CoreCompileInputs.cache
+/home/octavio/Escritorio/PAQuickie(1)(1) (copia)/PAQuickie(1)/PAQuickie/COntrolREyS/obj/x86/Debug/COntrolREyS.csproj.CopyComplete
+/home/octavio/Escritorio/PAQuickie(1)(1) (copia)/PAQuickie(1)/PAQuickie/COntrolREyS/obj/x86/Debug/COntrolREyS.exe
+/home/octavio/Escritorio/PAQuickie(1)(1) (copia)/PAQuickie(1)/PAQuickie/COntrolREyS/obj/x86/Debug/COntrolREyS.pdb
+/home/ubuntupa/Descargas/PAQuickie(1)(1) (copia)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/COntrolREyS.exe
+/home/ubuntupa/Descargas/PAQuickie(1)(1) (copia)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/COntrolREyS.pdb
+/home/ubuntupa/Descargas/PAQuickie(1)(1) (copia)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/MySql.Data.dll
+/home/ubuntupa/Descargas/PAQuickie(1)(1) (copia)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/MySql.Data.EntityFramework.dll
+/home/ubuntupa/Descargas/PAQuickie(1)(1) (copia)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/Google.Protobuf.dll
+/home/ubuntupa/Descargas/PAQuickie(1)(1) (copia)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/ZstdNet.dll
+/home/ubuntupa/Descargas/PAQuickie(1)(1) (copia)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/K4os.Compression.LZ4.Streams.dll
+/home/ubuntupa/Descargas/PAQuickie(1)(1) (copia)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/BouncyCastle.Crypto.dll
+/home/ubuntupa/Descargas/PAQuickie(1)(1) (copia)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/Ubiety.Dns.Core.dll
+/home/ubuntupa/Descargas/PAQuickie(1)(1) (copia)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/System.Buffers.dll
+/home/ubuntupa/Descargas/PAQuickie(1)(1) (copia)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/K4os.Compression.LZ4.dll
+/home/ubuntupa/Descargas/PAQuickie(1)(1) (copia)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/K4os.Hash.xxHash.dll
+/home/ubuntupa/Descargas/PAQuickie(1)(1) (copia)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/MySql.Data.xml
+/home/ubuntupa/Descargas/PAQuickie(1)(1) (copia)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/MySql.Data.EntityFramework.xml
+/home/ubuntupa/Descargas/PAQuickie(1)(1) (copia)/PAQuickie(1)/PAQuickie/COntrolREyS/obj/x86/Debug/COntrolREyS.csproj.CoreCompileInputs.cache
+/home/ubuntupa/Descargas/PAQuickie(1)(1) (copia)/PAQuickie(1)/PAQuickie/COntrolREyS/obj/x86/Debug/COntrolREyS.csproj.CopyComplete
+/home/ubuntupa/Descargas/PAQuickie(1)(1) (copia)/PAQuickie(1)/PAQuickie/COntrolREyS/obj/x86/Debug/COntrolREyS.exe
+/home/ubuntupa/Descargas/PAQuickie(1)(1) (copia)/PAQuickie(1)/PAQuickie/COntrolREyS/obj/x86/Debug/COntrolREyS.pdb
+/home/ubuntupa/Descargas/PAQuickie(1)(1) (copia)/PAQuickie(1)/PAQuickie/COntrolREyS/obj/x86/Debug/COntrolREyS.csprojAssemblyReference.cache
+/home/octavio/Escritorio/PAQuickie_OCTAVIO NO LO JODAS/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/COntrolREyS.exe
+/home/octavio/Escritorio/PAQuickie_OCTAVIO NO LO JODAS/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/COntrolREyS.pdb
+/home/octavio/Escritorio/PAQuickie_OCTAVIO NO LO JODAS/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/MySql.Data.dll
+/home/octavio/Escritorio/PAQuickie_OCTAVIO NO LO JODAS/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/MySql.Data.EntityFramework.dll
+/home/octavio/Escritorio/PAQuickie_OCTAVIO NO LO JODAS/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/Google.Protobuf.dll
+/home/octavio/Escritorio/PAQuickie_OCTAVIO NO LO JODAS/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/ZstdNet.dll
+/home/octavio/Escritorio/PAQuickie_OCTAVIO NO LO JODAS/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/K4os.Compression.LZ4.Streams.dll
+/home/octavio/Escritorio/PAQuickie_OCTAVIO NO LO JODAS/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/BouncyCastle.Crypto.dll
+/home/octavio/Escritorio/PAQuickie_OCTAVIO NO LO JODAS/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/Ubiety.Dns.Core.dll
+/home/octavio/Escritorio/PAQuickie_OCTAVIO NO LO JODAS/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/System.Buffers.dll
+/home/octavio/Escritorio/PAQuickie_OCTAVIO NO LO JODAS/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/K4os.Compression.LZ4.dll
+/home/octavio/Escritorio/PAQuickie_OCTAVIO NO LO JODAS/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/K4os.Hash.xxHash.dll
+/home/octavio/Escritorio/PAQuickie_OCTAVIO NO LO JODAS/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/MySql.Data.xml
+/home/octavio/Escritorio/PAQuickie_OCTAVIO NO LO JODAS/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/MySql.Data.EntityFramework.xml
+/home/octavio/Escritorio/PAQuickie_OCTAVIO NO LO JODAS/PAQuickie(1)/PAQuickie/COntrolREyS/obj/x86/Debug/COntrolREyS.csprojAssemblyReference.cache
+/home/octavio/Escritorio/PAQuickie_OCTAVIO NO LO JODAS/PAQuickie(1)/PAQuickie/COntrolREyS/obj/x86/Debug/COntrolREyS.csproj.CoreCompileInputs.cache
+/home/octavio/Escritorio/PAQuickie_OCTAVIO NO LO JODAS/PAQuickie(1)/PAQuickie/COntrolREyS/obj/x86/Debug/COntrolREyS.csproj.CopyComplete
+/home/octavio/Escritorio/PAQuickie_OCTAVIO NO LO JODAS/PAQuickie(1)/PAQuickie/COntrolREyS/obj/x86/Debug/COntrolREyS.exe
+/home/octavio/Escritorio/PAQuickie_OCTAVIO NO LO JODAS/PAQuickie(1)/PAQuickie/COntrolREyS/obj/x86/Debug/COntrolREyS.pdb
+/home/ubuntupa/Descargas/PAQuickie_OCTAVIO NO LO JODAS (2)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/COntrolREyS.exe
+/home/ubuntupa/Descargas/PAQuickie_OCTAVIO NO LO JODAS (2)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/COntrolREyS.pdb
+/home/ubuntupa/Descargas/PAQuickie_OCTAVIO NO LO JODAS (2)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/MySql.Data.dll
+/home/ubuntupa/Descargas/PAQuickie_OCTAVIO NO LO JODAS (2)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/MySql.Data.EntityFramework.dll
+/home/ubuntupa/Descargas/PAQuickie_OCTAVIO NO LO JODAS (2)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/Google.Protobuf.dll
+/home/ubuntupa/Descargas/PAQuickie_OCTAVIO NO LO JODAS (2)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/ZstdNet.dll
+/home/ubuntupa/Descargas/PAQuickie_OCTAVIO NO LO JODAS (2)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/K4os.Compression.LZ4.Streams.dll
+/home/ubuntupa/Descargas/PAQuickie_OCTAVIO NO LO JODAS (2)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/BouncyCastle.Crypto.dll
+/home/ubuntupa/Descargas/PAQuickie_OCTAVIO NO LO JODAS (2)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/Ubiety.Dns.Core.dll
+/home/ubuntupa/Descargas/PAQuickie_OCTAVIO NO LO JODAS (2)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/System.Buffers.dll
+/home/ubuntupa/Descargas/PAQuickie_OCTAVIO NO LO JODAS (2)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/K4os.Compression.LZ4.dll
+/home/ubuntupa/Descargas/PAQuickie_OCTAVIO NO LO JODAS (2)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/K4os.Hash.xxHash.dll
+/home/ubuntupa/Descargas/PAQuickie_OCTAVIO NO LO JODAS (2)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/MySql.Data.xml
+/home/ubuntupa/Descargas/PAQuickie_OCTAVIO NO LO JODAS (2)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/MySql.Data.EntityFramework.xml
+/home/ubuntupa/Descargas/PAQuickie_OCTAVIO NO LO JODAS (2)/PAQuickie(1)/PAQuickie/COntrolREyS/obj/x86/Debug/COntrolREyS.csprojAssemblyReference.cache
+/home/ubuntupa/Descargas/PAQuickie_OCTAVIO NO LO JODAS (2)/PAQuickie(1)/PAQuickie/COntrolREyS/obj/x86/Debug/COntrolREyS.csproj.CoreCompileInputs.cache
+/home/ubuntupa/Descargas/PAQuickie_OCTAVIO NO LO JODAS (2)/PAQuickie(1)/PAQuickie/COntrolREyS/obj/x86/Debug/COntrolREyS.csproj.CopyComplete
+/home/ubuntupa/Descargas/PAQuickie_OCTAVIO NO LO JODAS (2)/PAQuickie(1)/PAQuickie/COntrolREyS/obj/x86/Debug/COntrolREyS.exe
+/home/ubuntupa/Descargas/PAQuickie_OCTAVIO NO LO JODAS (2)/PAQuickie(1)/PAQuickie/COntrolREyS/obj/x86/Debug/COntrolREyS.pdb
+/home/ubuntupa/Descargas/PAQuickie_BAK2.0/PAQuickie_OCTAVIO NO LO JODAS (2)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/COntrolREyS.exe
+/home/ubuntupa/Descargas/PAQuickie_BAK2.0/PAQuickie_OCTAVIO NO LO JODAS (2)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/COntrolREyS.pdb
+/home/ubuntupa/Descargas/PAQuickie_BAK2.0/PAQuickie_OCTAVIO NO LO JODAS (2)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/MySql.Data.dll
+/home/ubuntupa/Descargas/PAQuickie_BAK2.0/PAQuickie_OCTAVIO NO LO JODAS (2)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/MySql.Data.EntityFramework.dll
+/home/ubuntupa/Descargas/PAQuickie_BAK2.0/PAQuickie_OCTAVIO NO LO JODAS (2)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/Google.Protobuf.dll
+/home/ubuntupa/Descargas/PAQuickie_BAK2.0/PAQuickie_OCTAVIO NO LO JODAS (2)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/ZstdNet.dll
+/home/ubuntupa/Descargas/PAQuickie_BAK2.0/PAQuickie_OCTAVIO NO LO JODAS (2)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/K4os.Compression.LZ4.Streams.dll
+/home/ubuntupa/Descargas/PAQuickie_BAK2.0/PAQuickie_OCTAVIO NO LO JODAS (2)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/BouncyCastle.Crypto.dll
+/home/ubuntupa/Descargas/PAQuickie_BAK2.0/PAQuickie_OCTAVIO NO LO JODAS (2)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/Ubiety.Dns.Core.dll
+/home/ubuntupa/Descargas/PAQuickie_BAK2.0/PAQuickie_OCTAVIO NO LO JODAS (2)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/System.Buffers.dll
+/home/ubuntupa/Descargas/PAQuickie_BAK2.0/PAQuickie_OCTAVIO NO LO JODAS (2)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/K4os.Compression.LZ4.dll
+/home/ubuntupa/Descargas/PAQuickie_BAK2.0/PAQuickie_OCTAVIO NO LO JODAS (2)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/K4os.Hash.xxHash.dll
+/home/ubuntupa/Descargas/PAQuickie_BAK2.0/PAQuickie_OCTAVIO NO LO JODAS (2)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/MySql.Data.xml
+/home/ubuntupa/Descargas/PAQuickie_BAK2.0/PAQuickie_OCTAVIO NO LO JODAS (2)/PAQuickie(1)/PAQuickie/COntrolREyS/bin/Debug/MySql.Data.EntityFramework.xml
+/home/ubuntupa/Descargas/PAQuickie_BAK2.0/PAQuickie_OCTAVIO NO LO JODAS (2)/PAQuickie(1)/PAQuickie/COntrolREyS/obj/x86/Debug/COntrolREyS.csprojAssemblyReference.cache
+/home/ubuntupa/Descargas/PAQuickie_BAK2.0/PAQuickie_OCTAVIO NO LO JODAS (2)/PAQuickie(1)/PAQuickie/COntrolREyS/obj/x86/Debug/COntrolREyS.csproj.CoreCompileInputs.cache
+/home/ubuntupa/Descargas/PAQuickie_BAK2.0/PAQuickie_OCTAVIO NO LO JODAS (2)/PAQuickie(1)/PAQuickie/COntrolREyS/obj/x86/Debug/COntrolREyS.csproj.CopyComplete
+/home/ubuntupa/Descargas/PAQuickie_BAK2.0/PAQuickie_OCTAVIO NO LO JODAS (2)/PAQuickie(1)/PAQuickie/COntrolREyS/obj/x86/Debug/COntrolREyS.exe
+/home/ubuntupa/Descargas/PAQuickie_BAK2.0/PAQuickie_OCTAVIO NO LO JODAS (2)/PAQuickie(1)/PAQuickie/COntrolREyS/obj/x86/Debug/COntrolREyS.pdb
+/home/ubuntupa/Descargas/QUICKIEBD_ESTA SI YA SIRVE.tar(1)/PAQuickie_BAK2.0/QUICKIEBD_NO TOQUEN NADA/PAQuickie_NoToquenNada/PAQuickie/COntrolREyS/bin/Debug/COntrolREyS.exe
+/home/ubuntupa/Descargas/QUICKIEBD_ESTA SI YA SIRVE.tar(1)/PAQuickie_BAK2.0/QUICKIEBD_NO TOQUEN NADA/PAQuickie_NoToquenNada/PAQuickie/COntrolREyS/bin/Debug/COntrolREyS.pdb
+/home/ubuntupa/Descargas/QUICKIEBD_ESTA SI YA SIRVE.tar(1)/PAQuickie_BAK2.0/QUICKIEBD_NO TOQUEN NADA/PAQuickie_NoToquenNada/PAQuickie/COntrolREyS/bin/Debug/MySql.Data.dll
+/home/ubuntupa/Descargas/QUICKIEBD_ESTA SI YA SIRVE.tar(1)/PAQuickie_BAK2.0/QUICKIEBD_NO TOQUEN NADA/PAQuickie_NoToquenNada/PAQuickie/COntrolREyS/bin/Debug/MySql.Data.EntityFramework.dll
+/home/ubuntupa/Descargas/QUICKIEBD_ESTA SI YA SIRVE.tar(1)/PAQuickie_BAK2.0/QUICKIEBD_NO TOQUEN NADA/PAQuickie_NoToquenNada/PAQuickie/COntrolREyS/bin/Debug/Google.Protobuf.dll
+/home/ubuntupa/Descargas/QUICKIEBD_ESTA SI YA SIRVE.tar(1)/PAQuickie_BAK2.0/QUICKIEBD_NO TOQUEN NADA/PAQuickie_NoToquenNada/PAQuickie/COntrolREyS/bin/Debug/ZstdNet.dll
+/home/ubuntupa/Descargas/QUICKIEBD_ESTA SI YA SIRVE.tar(1)/PAQuickie_BAK2.0/QUICKIEBD_NO TOQUEN NADA/PAQuickie_NoToquenNada/PAQuickie/COntrolREyS/bin/Debug/K4os.Compression.LZ4.Streams.dll
+/home/ubuntupa/Descargas/QUICKIEBD_ESTA SI YA SIRVE.tar(1)/PAQuickie_BAK2.0/QUICKIEBD_NO TOQUEN NADA/PAQuickie_NoToquenNada/PAQuickie/COntrolREyS/bin/Debug/BouncyCastle.Crypto.dll
+/home/ubuntupa/Descargas/QUICKIEBD_ESTA SI YA SIRVE.tar(1)/PAQuickie_BAK2.0/QUICKIEBD_NO TOQUEN NADA/PAQuickie_NoToquenNada/PAQuickie/COntrolREyS/bin/Debug/Ubiety.Dns.Core.dll
+/home/ubuntupa/Descargas/QUICKIEBD_ESTA SI YA SIRVE.tar(1)/PAQuickie_BAK2.0/QUICKIEBD_NO TOQUEN NADA/PAQuickie_NoToquenNada/PAQuickie/COntrolREyS/bin/Debug/System.Buffers.dll
+/home/ubuntupa/Descargas/QUICKIEBD_ESTA SI YA SIRVE.tar(1)/PAQuickie_BAK2.0/QUICKIEBD_NO TOQUEN NADA/PAQuickie_NoToquenNada/PAQuickie/COntrolREyS/bin/Debug/K4os.Compression.LZ4.dll
+/home/ubuntupa/Descargas/QUICKIEBD_ESTA SI YA SIRVE.tar(1)/PAQuickie_BAK2.0/QUICKIEBD_NO TOQUEN NADA/PAQuickie_NoToquenNada/PAQuickie/COntrolREyS/bin/Debug/K4os.Hash.xxHash.dll
+/home/ubuntupa/Descargas/QUICKIEBD_ESTA SI YA SIRVE.tar(1)/PAQuickie_BAK2.0/QUICKIEBD_NO TOQUEN NADA/PAQuickie_NoToquenNada/PAQuickie/COntrolREyS/bin/Debug/MySql.Data.xml
+/home/ubuntupa/Descargas/QUICKIEBD_ESTA SI YA SIRVE.tar(1)/PAQuickie_BAK2.0/QUICKIEBD_NO TOQUEN NADA/PAQuickie_NoToquenNada/PAQuickie/COntrolREyS/bin/Debug/MySql.Data.EntityFramework.xml
+/home/ubuntupa/Descargas/QUICKIEBD_ESTA SI YA SIRVE.tar(1)/PAQuickie_BAK2.0/QUICKIEBD_NO TOQUEN NADA/PAQuickie_NoToquenNada/PAQuickie/COntrolREyS/obj/x86/Debug/COntrolREyS.csprojAssemblyReference.cache
+/home/ubuntupa/Descargas/QUICKIEBD_ESTA SI YA SIRVE.tar(1)/PAQuickie_BAK2.0/QUICKIEBD_NO TOQUEN NADA/PAQuickie_NoToquenNada/PAQuickie/COntrolREyS/obj/x86/Debug/COntrolREyS.csproj.CoreCompileInputs.cache
+/home/ubuntupa/Descargas/QUICKIEBD_ESTA SI YA SIRVE.tar(1)/PAQuickie_BAK2.0/QUICKIEBD_NO TOQUEN NADA/PAQuickie_NoToquenNada/PAQuickie/COntrolREyS/obj/x86/Debug/COntrolREyS.csproj.CopyComplete
+/home/ubuntupa/Descargas/QUICKIEBD_ESTA SI YA SIRVE.tar(1)/PAQuickie_BAK2.0/QUICKIEBD_NO TOQUEN NADA/PAQuickie_NoToquenNada/PAQuickie/COntrolREyS/obj/x86/Debug/COntrolREyS.exe
+/home/ubuntupa/Descargas/QUICKIEBD_ESTA SI YA SIRVE.tar(1)/PAQuickie_BAK2.0/QUICKIEBD_NO TOQUEN NADA/PAQuickie_NoToquenNada/PAQuickie/COntrolREyS/obj/x86/Debug/COntrolREyS.pdb
+/home/ubuntupa/Descargas/Proyecto Final PA.tar(1)/QUICKIEBD_ESTA SI YA SIRVE.tar(1)/PAQuickie_BAK2.0/QUICKIEBD_NO TOQUEN NADA/PAQuickie_NoToquenNada/PAQuickie/COntrolREyS/bin/Debug/COntrolREyS.exe
+/home/ubuntupa/Descargas/Proyecto Final PA.tar(1)/QUICKIEBD_ESTA SI YA SIRVE.tar(1)/PAQuickie_BAK2.0/QUICKIEBD_NO TOQUEN NADA/PAQuickie_NoToquenNada/PAQuickie/COntrolREyS/bin/Debug/COntrolREyS.pdb
+/home/ubuntupa/Descargas/Proyecto Final PA.tar(1)/QUICKIEBD_ESTA SI YA SIRVE.tar(1)/PAQuickie_BAK2.0/QUICKIEBD_NO TOQUEN NADA/PAQuickie_NoToquenNada/PAQuickie/COntrolREyS/bin/Debug/MySql.Data.dll
+/home/ubuntupa/Descargas/Proyecto Final PA.tar(1)/QUICKIEBD_ESTA SI YA SIRVE.tar(1)/PAQuickie_BAK2.0/QUICKIEBD_NO TOQUEN NADA/PAQuickie_NoToquenNada/PAQuickie/COntrolREyS/bin/Debug/MySql.Data.EntityFramework.dll
+/home/ubuntupa/Descargas/Proyecto Final PA.tar(1)/QUICKIEBD_ESTA SI YA SIRVE.tar(1)/PAQuickie_BAK2.0/QUICKIEBD_NO TOQUEN NADA/PAQuickie_NoToquenNada/PAQuickie/COntrolREyS/bin/Debug/Google.Protobuf.dll
+/home/ubuntupa/Descargas/Proyecto Final PA.tar(1)/QUICKIEBD_ESTA SI YA SIRVE.tar(1)/PAQuickie_BAK2.0/QUICKIEBD_NO TOQUEN NADA/PAQuickie_NoToquenNada/PAQuickie/COntrolREyS/bin/Debug/ZstdNet.dll
+/home/ubuntupa/Descargas/Proyecto Final PA.tar(1)/QUICKIEBD_ESTA SI YA SIRVE.tar(1)/PAQuickie_BAK2.0/QUICKIEBD_NO TOQUEN NADA/PAQuickie_NoToquenNada/PAQuickie/COntrolREyS/bin/Debug/K4os.Compression.LZ4.Streams.dll
+/home/ubuntupa/Descargas/Proyecto Final PA.tar(1)/QUICKIEBD_ESTA SI YA SIRVE.tar(1)/PAQuickie_BAK2.0/QUICKIEBD_NO TOQUEN NADA/PAQuickie_NoToquenNada/PAQuickie/COntrolREyS/bin/Debug/BouncyCastle.Crypto.dll
+/home/ubuntupa/Descargas/Proyecto Final PA.tar(1)/QUICKIEBD_ESTA SI YA SIRVE.tar(1)/PAQuickie_BAK2.0/QUICKIEBD_NO TOQUEN NADA/PAQuickie_NoToquenNada/PAQuickie/COntrolREyS/bin/Debug/Ubiety.Dns.Core.dll
+/home/ubuntupa/Descargas/Proyecto Final PA.tar(1)/QUICKIEBD_ESTA SI YA SIRVE.tar(1)/PAQuickie_BAK2.0/QUICKIEBD_NO TOQUEN NADA/PAQuickie_NoToquenNada/PAQuickie/COntrolREyS/bin/Debug/System.Buffers.dll
+/home/ubuntupa/Descargas/Proyecto Final PA.tar(1)/QUICKIEBD_ESTA SI YA SIRVE.tar(1)/PAQuickie_BAK2.0/QUICKIEBD_NO TOQUEN NADA/PAQuickie_NoToquenNada/PAQuickie/COntrolREyS/bin/Debug/K4os.Compression.LZ4.dll
+/home/ubuntupa/Descargas/Proyecto Final PA.tar(1)/QUICKIEBD_ESTA SI YA SIRVE.tar(1)/PAQuickie_BAK2.0/QUICKIEBD_NO TOQUEN NADA/PAQuickie_NoToquenNada/PAQuickie/COntrolREyS/bin/Debug/K4os.Hash.xxHash.dll
+/home/ubuntupa/Descargas/Proyecto Final PA.tar(1)/QUICKIEBD_ESTA SI YA SIRVE.tar(1)/PAQuickie_BAK2.0/QUICKIEBD_NO TOQUEN NADA/PAQuickie_NoToquenNada/PAQuickie/COntrolREyS/bin/Debug/MySql.Data.xml
+/home/ubuntupa/Descargas/Proyecto Final PA.tar(1)/QUICKIEBD_ESTA SI YA SIRVE.tar(1)/PAQuickie_BAK2.0/QUICKIEBD_NO TOQUEN NADA/PAQuickie_NoToquenNada/PAQuickie/COntrolREyS/bin/Debug/MySql.Data.EntityFramework.xml
+/home/ubuntupa/Descargas/Proyecto Final PA.tar(1)/QUICKIEBD_ESTA SI YA SIRVE.tar(1)/PAQuickie_BAK2.0/QUICKIEBD_NO TOQUEN NADA/PAQuickie_NoToquenNada/PAQuickie/COntrolREyS/obj/x86/Debug/COntrolREyS.csprojAssemblyReference.cache
+/home/ubuntupa/Descargas/Proyecto Final PA.tar(1)/QUICKIEBD_ESTA SI YA SIRVE.tar(1)/PAQuickie_BAK2.0/QUICKIEBD_NO TOQUEN NADA/PAQuickie_NoToquenNada/PAQuickie/COntrolREyS/obj/x86/Debug/COntrolREyS.csproj.CoreCompileInputs.cache
+/home/ubuntupa/Descargas/Proyecto Final PA.tar(1)/QUICKIEBD_ESTA SI YA SIRVE.tar(1)/PAQuickie_BAK2.0/QUICKIEBD_NO TOQUEN NADA/PAQuickie_NoToquenNada/PAQuickie/COntrolREyS/obj/x86/Debug/COntrolREyS.csproj.CopyComplete
+/home/ubuntupa/Descargas/Proyecto Final PA.tar(1)/QUICKIEBD_ESTA SI YA SIRVE.tar(1)/PAQuickie_BAK2.0/QUICKIEBD_NO TOQUEN NADA/PAQuickie_NoToquenNada/PAQuickie/COntrolREyS/obj/x86/Debug/COntrolREyS.exe
+/home/ubuntupa/Descargas/Proyecto Final PA.tar(1)/QUICKIEBD_ESTA SI YA SIRVE.tar(1)/PAQuickie_BAK2.0/QUICKIEBD_NO TOQUEN NADA/PAQuickie_NoToquenNada/PAQuickie/COntrolREyS/obj/x86/Debug/COntrolREyS.pdb
+/home/ubuntupa/Descargas/ProyectoQUICKIE/ProyectoFinal/QuickiePA/bin/Debug/COntrolREyS.exe
+/home/ubuntupa/Descargas/ProyectoQUICKIE/ProyectoFinal/QuickiePA/bin/Debug/COntrolREyS.pdb
+/home/ubuntupa/Descargas/ProyectoQUICKIE/ProyectoFinal/QuickiePA/bin/Debug/MySql.Data.dll
+/home/ubuntupa/Descargas/ProyectoQUICKIE/ProyectoFinal/QuickiePA/bin/Debug/MySql.Data.EntityFramework.dll
+/home/ubuntupa/Descargas/ProyectoQUICKIE/ProyectoFinal/QuickiePA/bin/Debug/Google.Protobuf.dll
+/home/ubuntupa/Descargas/ProyectoQUICKIE/ProyectoFinal/QuickiePA/bin/Debug/ZstdNet.dll
+/home/ubuntupa/Descargas/ProyectoQUICKIE/ProyectoFinal/QuickiePA/bin/Debug/K4os.Compression.LZ4.Streams.dll
+/home/ubuntupa/Descargas/ProyectoQUICKIE/ProyectoFinal/QuickiePA/bin/Debug/BouncyCastle.Crypto.dll
+/home/ubuntupa/Descargas/ProyectoQUICKIE/ProyectoFinal/QuickiePA/bin/Debug/Ubiety.Dns.Core.dll
+/home/ubuntupa/Descargas/ProyectoQUICKIE/ProyectoFinal/QuickiePA/bin/Debug/System.Buffers.dll
+/home/ubuntupa/Descargas/ProyectoQUICKIE/ProyectoFinal/QuickiePA/bin/Debug/K4os.Compression.LZ4.dll
+/home/ubuntupa/Descargas/ProyectoQUICKIE/ProyectoFinal/QuickiePA/bin/Debug/K4os.Hash.xxHash.dll
+/home/ubuntupa/Descargas/ProyectoQUICKIE/ProyectoFinal/QuickiePA/bin/Debug/MySql.Data.xml
+/home/ubuntupa/Descargas/ProyectoQUICKIE/ProyectoFinal/QuickiePA/bin/Debug/MySql.Data.EntityFramework.xml
+/home/ubuntupa/Descargas/ProyectoQUICKIE/ProyectoFinal/QuickiePA/obj/x86/Debug/COntrolREyS.csprojAssemblyReference.cache
+/home/ubuntupa/Descargas/ProyectoQUICKIE/ProyectoFinal/QuickiePA/obj/x86/Debug/COntrolREyS.csproj.CoreCompileInputs.cache
+/home/ubuntupa/Descargas/ProyectoQUICKIE/ProyectoFinal/QuickiePA/obj/x86/Debug/COntrolREyS.csproj.CopyComplete
+/home/ubuntupa/Descargas/ProyectoQUICKIE/ProyectoFinal/QuickiePA/obj/x86/Debug/COntrolREyS.exe
+/home/ubuntupa/Descargas/ProyectoQUICKIE/ProyectoFinal/QuickiePA/obj/x86/Debug/COntrolREyS.pdb

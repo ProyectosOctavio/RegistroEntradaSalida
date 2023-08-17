@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProjectGuid>{87BCA0C0-CFC6-4547-B1CE-BDAAB3372B09}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>COntrolREyS</RootNamespace>
+    <AssemblyName>COntrolREyS</AssemblyName>
+    <TargetFrameworkVersion>v4.7</TargetFrameworkVersion>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug</OutputPath>
+    <DefineConstants>DEBUG;</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release</OutputPath>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <PlatformTarget>x86</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="gtk-sharp, Version=2.4.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f">
+      <Package>gtk-sharp-2.0</Package>
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="gdk-sharp, Version=2.4.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f">
+      <Package>gtk-sharp-2.0</Package>
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="glib-sharp, Version=2.4.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f">
+      <Package>glib-sharp-2.0</Package>
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="pango-sharp, Version=2.4.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f">
+      <Package>gtk-sharp-2.0</Package>
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="atk-sharp, Version=2.4.0.0, Culture=neutral, PublicKeyToken=35e10195dab3c99f">
+      <Package>gtk-sharp-2.0</Package>
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="Mono.Posix" />
+    <Reference Include="MySql.Data">
+      <HintPath>mysql-connector-net-8.0.28-noinstall\v4.5.2\MySql.Data.dll</HintPath>
+    </Reference>
+    <Reference Include="MySql.Data.EntityFramework">
+      <HintPath>mysql-connector-net-8.0.28-noinstall\v4.5.2\MySql.Data.EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Data" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="gtk-gui\gui.stetic">
+      <LogicalName>gui.stetic</LogicalName>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="gtk-gui\generated.cs" />
+    <Compile Include="MainWindow.cs" />
+    <Compile Include="gtk-gui\MainWindow.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Entrada.cs" />
+    <Compile Include="gtk-gui\COntrolREyS.Entrada.cs" />
+    <Compile Include="REmpleado.cs" />
+    <Compile Include="gtk-gui\COntrolREyS.REmpleado.cs" />
+    <Compile Include="Exportar.cs" />
+    <Compile Include="gtk-gui\COntrolREyS.Exportar.cs" />
+    <Compile Include="AdminEmpleado.cs" />
+    <Compile Include="gtk-gui\COntrolREyS.AdminEmpleado.cs" />
+    <Compile Include="AdminDepartamento.cs" />
+    <Compile Include="gtk-gui\COntrolREyS.AdminDepartamento.cs" />
+    <Compile Include="ADminWindow.cs" />
+    <Compile Include="gtk-gui\COntrolREyS.ADminWindow.cs" />
+    <Compile Include="AdminCargo.cs" />
+    <Compile Include="gtk-gui\COntrolREyS.AdminCargo.cs" />
+    <Compile Include="ReporteEmpleado.cs" />
+    <Compile Include="gtk-gui\COntrolREyS.ReporteEmpleado.cs" />
+    <Compile Include="ReporteDepartamento.cs" />
+    <Compile Include="gtk-gui\COntrolREyS.ReporteDepartamento.cs" />
+    <Compile Include="ReporteCargo.cs" />
+    <Compile Include="gtk-gui\COntrolREyS.ReporteCargo.cs" />
+    <Compile Include="ReporteEntradaSalida.cs" />
+    <Compile Include="gtk-gui\COntrolREyS.ReporteEntradaSalida.cs" />
+    <Compile Include="Entidades\AssemblyInfo.cs" />
+    <Compile Include="Entidades\tbl_Asistencia.cs" />
+    <Compile Include="Entidades\tbl_Cargo.cs" />
+    <Compile Include="Entidades\tbl_departamento.cs" />
+    <Compile Include="Entidades\tbl_empleado.cs" />
+    <Compile Include="Datos\Conexion.cs" />
+    <Compile Include="Datos\DT_tbl_Departamento.cs" />
+    <Compile Include="Datos\DT_tbl_Cargo.cs" />
+    <Compile Include="Datos\DT_tbl_Empleado.cs" />
+    <Compile Include="Datos\DT_tbl_Asistencia.cs" />
+    <Compile Include="frmGuardarDepartamento.cs" />
+    <Compile Include="gtk-gui\COntrolREyS.frmGuardarDepartamento.cs" />
+    <Compile Include="frmGuardarCargo.cs" />
+    <Compile Include="gtk-gui\COntrolREyS.frmGuardarCargo.cs" />
+    <Compile Include="frmGuardarEmpleado.cs" />
+    <Compile Include="gtk-gui\COntrolREyS.frmGuardarEmpleado.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Entidades\" />
+    <Folder Include="Properties\" />
+    <Folder Include="Datos\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+</Project>
